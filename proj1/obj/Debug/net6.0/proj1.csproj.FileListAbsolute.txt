@@ -1,0 +1,15 @@
+/home/goto/Desktop/C#/proj1/bin/Debug/net6.0/proj1
+/home/goto/Desktop/C#/proj1/bin/Debug/net6.0/proj1.deps.json
+/home/goto/Desktop/C#/proj1/bin/Debug/net6.0/proj1.runtimeconfig.json
+/home/goto/Desktop/C#/proj1/bin/Debug/net6.0/proj1.dll
+/home/goto/Desktop/C#/proj1/bin/Debug/net6.0/proj1.pdb
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/proj1.csproj.AssemblyReference.cache
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/proj1.GeneratedMSBuildEditorConfig.editorconfig
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/proj1.AssemblyInfoInputs.cache
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/proj1.AssemblyInfo.cs
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/proj1.csproj.CoreCompileInputs.cache
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/proj1.dll
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/refint/proj1.dll
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/proj1.pdb
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/proj1.genruntimeconfig.cache
+/home/goto/Desktop/C#/proj1/obj/Debug/net6.0/ref/proj1.dll
